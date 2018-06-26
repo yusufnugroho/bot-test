@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "1) Register Telegram Account\r 2) using web browser\r 3) choose web telegram\r 4) login to telegram account\r 5) on search bar, type 'botfather'\r 6) click BotFather account to start chat\r 7) type '/help' to check all command",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yusufnugroho/bot-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yusufnugroho/bot-test/issues"
+  },
+  "homepage": "https://github.com/yusufnugroho/bot-test#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
